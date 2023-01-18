@@ -1,4 +1,4 @@
-# Digital humaniora og programmering 1-3
+# Digital humaniora og programmering 1-3. Version 2022.
 
 ## Digital humaniora og programmering 1
 Notebooken gennemgår grundlæggende Python-kode, der kan få dig i gang med at bruge programmering som redskab til tekstbehandling, kvantitative analyser og tekst- og datamining. Mere teknisk fortalt gennemgår vi begreber som variabler, værdier, datatyperne tekststrenge og lister, loops og import og brug af pakker, f.eks. NLTK-pakken. Samtidigt lærer du om python-programmet Jupyter Notebook, så opnår du også et kendskab til det.
